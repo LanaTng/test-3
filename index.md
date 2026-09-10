@@ -1,3 +1,3 @@
 **blablabla**
 
-[index](bobby.md)
+[bobby](bobby.md)
